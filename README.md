@@ -20,7 +20,7 @@
   ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-- Passionate about **Data Science, AI, Biomedical Engineering**, and bridging research with real-world impact
+- Passionate about **Data Science, AI, Health Informatics**, and bridging research with real-world impact
 
 ---
 
@@ -64,7 +64,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | *(Coming soon)* | LSTM Diabetes Risk Model | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| *(Coming soon)* | 5G Network Automation Pipeline | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| **[5G Network Analytics GUI](https://github.com/ruedagarcialaura/Bachelor-Thesis-TUM-GUI-for-Performance-evaluation-of-opensource-5G-private-network-srsRAN-)** | Real-time performance evaluation and data visualization for open-source 5G (srsRAN) deployments. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)|
 
 > 🔧 More repositories being added as projects wrap up — stay tuned!
 
