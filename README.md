@@ -25,7 +25,36 @@
 
 ---
 
-## About Me
+##  Current Research Project
+
+### Predictive Analytics for Healthcare: LSTM-based Diabetes Risk Modeling
+
+- Architecting a deep learning pipeline to process and normalize large-scale, heterogeneous **Electronic Health Records (EHR)** in collaboration with IIT.
+- Developing an **LSTM architecture** to capture temporal dependencies in patient history and transform raw clinical logs into structured sequences.
+- Implementing the model in **PyTorch** with GPU acceleration for training on high-dimensional health datasets.
+
+---
+## Education
+
+- **Master's in IT and Management** (Data Science & AI), Illinois Institute of Technology — *Expected May 2026*
+- **Master's in Electrical and Computer Engineering**, UPM — Madrid, Spain — *Expected May 2026*
+- **Exchange Program** in Electrical Engineering & IT, TUM — Munich, Germany *(Oct 2023 – Aug 2024)*
+- **Bachelor's in Electrical and Computer Engineering**, UPM — Madrid, Spain *(Graduated Aug 2024)*
+
+---
+
+## 📌 Featured Repositories
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **[EHR LSTM Diabetes Prediction](https://github.com/ruedagarcialaura/EHR-LSTM-DiabetesPrediction)** | LSTM Diabetes Risk Model | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **[5G Network Analytics GUI](https://github.com/ruedagarcialaura/Private5GNetworkAnalyticsGUI)** | Real-time performance evaluation and data visualization for open-source 5G (srsRAN) deployments. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)|
+| **[LoopShare](https://github.com/ruedagarcialaura/loopshare)** | **Hackathon Project:** AI-powered marketplace using ML occupancy predictions and local Agentic AI (Ollama) to revitalize Chicago's Loop. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white) |
+| **[Obesity Risk Analytics](https://github.com/ruedagarcialaura/Obesity-Risk-Analytics-R)** | Statistical analysis and predictive modeling of obesity risk factors using stepwise regression in R. | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) |
+
+---
+
+## Work Experience
 
 **Network Systems & Data Engineer @ UPM - GMR Research Group** *(Oct 2024 – Jun 2025)*
 
@@ -41,33 +70,9 @@
 
 ---
 
-## Education
 
-- **Master's in IT and Management** (Data Science & AI), Illinois Institute of Technology — *Expected May 2026*
-- **Master's in Electrical and Computer Engineering**, UPM — Madrid, Spain — *Expected May 2026*
-- **Exchange Program** in Electrical Engineering & IT, TUM — Munich, Germany *(Oct 2023 – Aug 2024)*
-- **Bachelor's in Electrical and Computer Engineering**, UPM — Madrid, Spain *(Graduated Aug 2024)*
 
----
 
-## 🧠 Current Research Project
-
-### Predictive Analytics for Healthcare: LSTM-based Diabetes Risk Modeling
-
-- Architecting a deep learning pipeline to process and normalize large-scale, heterogeneous **Electronic Health Records (EHR)** in collaboration with IIT.
-- Developing an **LSTM architecture** to capture temporal dependencies in patient history and transform raw clinical logs into structured sequences.
-- Implementing the model in **PyTorch** with GPU acceleration for training on high-dimensional health datasets.
-
----
-
-## 📌 Featured Repositories
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **[EHR LSTM Diabetes Prediction](https://github.com/ruedagarcialaura/EHR-LSTM-DiabetesPrediction)** | LSTM Diabetes Risk Model | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **[5G Network Analytics GUI](https://github.com/ruedagarcialaura/Private5GNetworkAnalyticsGUI)** | Real-time performance evaluation and data visualization for open-source 5G (srsRAN) deployments. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)|
-| **[LoopShare](https://github.com/ruedagarcialaura/loopshare)** | **Hackathon Project:** AI-powered marketplace using ML occupancy predictions and local Agentic AI (Ollama) to revitalize Chicago's Loop. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white) |
-| **[Obesity Risk Analytics](https://github.com/ruedagarcialaura/Obesity-Risk-Analytics-R)** | Statistical analysis and predictive modeling of obesity risk factors using stepwise regression in R. | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) |
 
 
 
@@ -77,10 +82,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruedagarcialaura)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ruedagarcialaura&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 🌍 Languages
 
-🇬🇧 English (IELTS 8) &nbsp;|&nbsp; 🇪🇸 Spanish (Native) &nbsp;|&nbsp; 🇩🇪 German (B1)
+ English (IELTS 8) &nbsp;|&nbsp; Spanish (Native) &nbsp;|&nbsp; German (B1)
