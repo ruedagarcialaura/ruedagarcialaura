@@ -5,9 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/ruedagarcialaura?label=Follow&style=social)](https://github.com/ruedagarcialaura)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- Currently pursuing a **Master's in IT and Management** (Data Science & AI) at the **Illinois Institute of Technology**, Chicago 🇺🇸
-- Simultaneously completing a **Master's in Electrical and Computer Engineering** at **Universidad Politécnica de Madrid** 🇪🇸
-- Previously on exchange at **Technische Universität München (TUM)** 🇩🇪, working on 5G network automation
+- Currently pursuing a **Master's in IT and Management** (Data Science & AI) at the **Illinois Institute of Technology**, Chicago.
+- Simultaneously completing a **Master's in Electrical and Computer Engineering** at **Universidad Politécnica de Madrid**, Madrid.
+- Previously on exchange at **Technische Universität München (TUM)** 🇩🇪, working on 5G Network Automation.
 - Tech stack:
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
@@ -20,7 +20,7 @@
   ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-- Passionate about **Data Science, AI, 5G networks**, and bridging research with real-world impact
+- Passionate about **Data Science, AI, Biomedical Engineering**, and bridging research with real-world impact
 
 ---
 
