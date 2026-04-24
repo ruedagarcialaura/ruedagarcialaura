@@ -16,7 +16,6 @@
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
