@@ -71,18 +71,29 @@
 - **Statistical Analysis & Security:** Executed in-depth statistical modeling to pinpoint system bottlenecks and designed experimental testbeds for security authentication and encryption protocols.
 ---
 
-
-
-
-
-
-
----
-
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruedagarcialaura)](https://git.io/streak-stats)
+<div align="center">
 
+  <a href="https://github.com/ruedagarcialaura">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ruedagarcialaura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Laura's GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/ruedagarcialaura">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruedagarcialaura&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <a href="https://github.com/ruedagarcialaura">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ruedagarcialaura&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+</div>
 ---
 
 ### 🌍 Languages
