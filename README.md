@@ -34,8 +34,8 @@
 ---
 ## Education
 
-- **Master's in IT and Management** (Data Science & AI), Illinois Institute of Technology — *Expected May 2026*
-- **Master's in Electrical and Computer Engineering**, UPM — Madrid, Spain — *Expected May 2026*
+- **Master's in IT and Management** (Data Science & AI), Illinois Institute of Technology  *(Aug 2025 - Aug 2026)*
+- **Master's in Electrical and Computer Engineering**, UPM — Madrid, Spain  *(Sept 2024 - Aug 2026)*
 - **Exchange Program** in Electrical Engineering & IT, TUM — Munich, Germany *(Oct 2023 – Aug 2024)*
 - **Bachelor's in Electrical and Computer Engineering**, UPM — Madrid, Spain *(Graduated Aug 2024)*
 
@@ -56,18 +56,19 @@
 
 ## Work Experience
 
-**Network Systems & Data Engineer @ UPM - GMR Research Group** *(Oct 2024 – Jun 2025)*
+### **Data & Software Systems Engineer** | UPM – GMR Research Group
+*_Oct 2024 – Jun 2025 | Madrid, Spain_*
+- **Data Throughput Optimization:** Optimized large-scale distributed architectures and system configurations to manage high-bandwidth data applications and improve system reliability.
+- **Observability & Scripting:** Built automated logging, debugging scripts, and monitoring tools to detect system anomalies, improve data observability, and resolve complex edge-case failures in Linux environment.
+- **High-Performance Infrastructure:** Configured and deployed system-level configurations for edge-computing setups in smart city initiatives.
 
-- Optimized large-scale 5G private network architectures for Madrid's smart city initiatives, focusing on data throughput and system reliability.
-- Collaborated on the deployment of Spain's **first mmWave 5G Network**, managing system-level configurations for high-bandwidth data applications.
+---
 
-**Automation & Data Analytics Engineer @ TUM - Chair of Communication Networks (LKN)** *(Feb 2024 – Aug 2024)*
-
-- Engineered an **end-to-end automated data pipeline** in Python to configure 5G network nodes and capture high-frequency traffic data using Pyshark and Wireshark.
-- Developed a **Data Visualization GUI** (Tkinter) for real-time performance analytics.
-- Performed statistical analysis on multi-gigabit datasets to identify network instability and bottleneck sources.
-- Designed experimental testbeds to evaluate 5G-AKA authentication protocols and encryption security standards (3GPP).
-
+### **Data Pipeline & Automation Engineer** | TUM – Chair of Communication Networks (LKN)
+*_Feb 2024 – Aug 2024 | Munich, Germany_*
+- **ETL & Data Pipelines:** Engineered automated end-to-end Python ETL pipelines in Linux to process, clean, and analyze multi-gigabit datasets from high-frequency streams.
+- **Full-Stack & Analytics Tooling:** Designed the backend data logic and frontend interface for a real-time analytics GUI (Python/Tkinter), surfacing critical performance KPIs and system metrics.
+- **Statistical Analysis & Security:** Executed in-depth statistical modeling to pinpoint system bottlenecks and designed experimental testbeds for security authentication and encryption protocols.
 ---
 
 
